@@ -1,5 +1,5 @@
 <?php
-
+//verifing credentials
 
 if(isset($_POST['username'],$_POST['password'])){
 	$uname = $_POST['username'];
