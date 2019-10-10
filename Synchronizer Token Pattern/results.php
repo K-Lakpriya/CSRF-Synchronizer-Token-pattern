@@ -85,7 +85,7 @@ if(isset($_POST['username'],$_POST['password'])){
 
 					<div class="container-login100-form-btn m-t-32">
 						<button class="login100-form-btn"  type="submit" value="updatepost">
-							Login
+							Submit
 						</button>
 					</div>
 
